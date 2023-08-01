@@ -7,6 +7,9 @@ El siguiente programa es un conversor de moneda, el cual puede convertir el valo
 - Solo un espacio de texto esta habilitado para ingresar una cantidad
 - Las dos listas tienen las respectivas monedas que se desean convertir.
 
+![](https://github.com/Randal-eng/Challenge-Oracle-One/blob/main/Img/Captura%20de%20pantalla%202023-08-01%20012025.png)
+![](https://github.com/Randal-eng/Challenge-Oracle-One/blob/main/Img/Captura%20de%20pantalla%202023-08-01%20012107.png)
+
 <p>
 Challenge hecho por Randal
 </p>
