@@ -1,8 +1,12 @@
 # ### Challenge-Oracle-One-Conversor
 <p>
-The next programm is a Currency converter, can converter from Mexican currency to Euro, US dollar, British pound, Yen and Won and viceversa. When the user insert a data type other than a numeric value, an error is displayed indicating  the failure.
+El siguiente programa es un conversor de moneda, el cual puede convertir el valor de una moneda a el valor de las monedas que esten disponibles, en este caso esta el Euro, Dólar estadounidense, Libra esterlina, Yen, Won surcoreano y Peso mexicano.
 </p>
 
-- The values of currencies are static.
-- Only one tex space is enabled.
-- The two list have all available currencies to convert.
+- Los valores de las monedas, son estaticos.
+- Solo un espacio de texto esta habilitado para ingresar una cantidad
+- Las dos listas tienen las respectivas monedas que se desean convertir.
+
+<p>
+Challenge hecho por Randal
+</p>
